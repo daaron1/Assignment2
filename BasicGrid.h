@@ -8,7 +8,7 @@ class BasicGrid
     BasicGrid(int x, int y);
     BasicGrid(string filename);
     ~BasicGrid();
-    // void populate(char arr[][]);
+
     void print();
     void printNext();
 
