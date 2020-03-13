@@ -8,50 +8,6 @@ using namespace std;
 
 int main(int argc, char const *argv[])
 {
-    // BasicGrid bg(5,5);
-
-    // bg.placeCell(9,5);
-    // bg.placeCell(8,5);
-    // bg.placeCell(7,5);
-    // bg.placeCell(9,4);
-    // bg.placeCell(8,3);
-
-    // bg.placeCell(2,0);
-    // bg.placeCell(3,1);
-    // bg.placeCell(4,1);
-    // bg.placeCell(2,4);
-    // bg.placeCell(3,4);
-    // bg.placeCell(0,2);
-    //bg.RandomizeGrid(.75);
-
-    // bg.placeCell(1,6);
-    // bg.placeCell(12,6);
-    // bg.placeCell(0,6);
-
-    // bg.updateGrid();
-
-    // while(1==1)
-    // {
-    //   cout << endl;
-    //   cout<<"-------------------"<<endl;
-    //   bg.print();
-    //   bg.printNeighbors();
-    //   bg.generate(3);
-    //   bg.printNext();
-    //   cout<<"-------------------"<<endl;
-    //   bg.print();
-    //   bg.printNeighbors();
-    //   cout << "Enter 1 to continue 2 to quit: ";
-    //   int choice;
-    //   cin >> choice;
-    //
-    //   if(choice==2)
-    //   {
-    //     break;
-    //   }
-    //
-    // }
-
 
     int userIn = 0;
 
